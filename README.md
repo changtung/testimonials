@@ -2,6 +2,16 @@
 
 Testimonial widget to your page.
 
+#requirements
+
+Cake Php 3.0
+
+http://book.cakephp.org/3.0/en/installation.html
+
+After You install cakephp 3.0, please configure default e-mail transport for emails and database.
+
+Database schema is in config/db.sql
+
 #wordpress
 
 just go to businesses. add business, then add testimonial, specify client. e-mail will be sent to him to write testimonial, once he writes, copy snippet from businesses according to your selected business and cpy paste it to your site.
